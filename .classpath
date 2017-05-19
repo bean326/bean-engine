@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7"/>
+	<classpathentry kind="lib" path="E:/data/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/jdom-2.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/fastjson-1.2.32.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/data/jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
